@@ -105,7 +105,7 @@ This project leverages JupyterLab Version 3.0.14 in association with Anaconda di
 
 ## Installation
 
-Before running the application, install Python modules Pandas, hvPlot, SQLAlchemy and Voila:
+Before running the application, install Python modules Pandas and hvPlot:
 
 ```python
 

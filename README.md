@@ -1,4 +1,4 @@
-# Group Project #1 - Climate Change and Extreme Weather Events vs. Commodity Prices
+# Climate Change and Extreme Weather Events vs. Commodity Prices
 #### UW Fintech - Fall 2021
 
 ---
